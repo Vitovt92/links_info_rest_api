@@ -1,0 +1,12 @@
+src/.env
+src/linksdb.sql
+src/node_modules/
+src/public/images/cable/TechnicalCondition/*
+src/public/images/cable/act/*
+src/public/images/cable/contract/*
+src/public/images/cable/project/*
+src/public/images/cable/Reservation/*
+src/public/images/crosver/photo/*
+src/public/images/presence/photo/*
+src/public/images/cable/cartogram/*
+src/config/config.json
